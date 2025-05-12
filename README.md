@@ -23,6 +23,9 @@ The dashboard contains:
 - **Charts**:
   - Donut Chart: Engagement by Category
   - Bar Chart: Views by Channel
+  -  Bar Chart: Engagement Factor by Channel
+  - Donut Chart: Views by Category
+![1746359363141](https://github.com/user-attachments/assets/56b26e63-6f14-4b75-9857-a28f9932906f)
 
 ---
 
